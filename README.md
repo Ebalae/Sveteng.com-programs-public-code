@@ -6,72 +6,54 @@
 
 ## English
 
-Welcome to my repository! Here you will find a collection of open-source utilities and daily programs designed to simplify routine tasks. All code is lightweight, transparent, and completely free to use.
+Welcome to my repository! This is a collection of powerful, open-source utilities that make everyday tasks faster and easier. All tools are designed with **privacy**, **speed**, and **simplicity** in mind.
 
-### 🚀 Included Programs
+### 🚀 What's Inside
 
-*   **Program 1 Name** — Briefly describe what it does (e.g., Audio-to-text converter).
-*   **Program 2 Name** — Briefly describe what it does (e.g., Image compressor).
-*   **Program 3 Name** — Briefly describe what it does (e.g., Secure password generator).
+*   **Voice to Text Converter** — Speak naturally, and watch your words appear on screen in real-time. The tool automatically adds punctuation, supports multiple languages, and even counts words and reading time. Perfect for notes, dictation, or transcribing meetings.
 
-### ⚙️ How to Run
+*   **Base64 Encoder/Decoder** — Instantly encode any text or files into Base64 format, or decode Base64 back to readable content. Supports multiple character encodings (UTF-8, ASCII, Windows-1251, and more). Great for developers, data transfer, or working with APIs.
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com
-    ```
-2.  **Navigate to the project folder:**
-    ```bash
-    cd your-repository-name
-    ```
-3.  **Install dependencies** (if any):
-    ```bash
-    pip install -r requirements.txt  # For Python
-    # OR
-    npm install                     # For Node.js
-    ```
-4.  **Run the script:**
-    Follow the specific instructions inside each program's directory.
+*   **OGG to MP3 Converter** — Convert OGG audio files to MP3 with just a few clicks. The tool processes files locally, supports batch conversion, and lets you adjust bitrate for optimal quality. Audio normalization ensures consistent volume levels across all files.
 
-### 🔒 Privacy & License
+### ✨ Why These Tools Are Great
 
-*   All tools run locally on your machine.
-*   No personal data or files are sent to third-party servers.
-*   Distributed under the **MIT License**. Feel free to modify and share!
+*   **Lightning Fast** — All processing happens instantly in your browser. No waiting for uploads or server queues.
+*   **100% Private** — Your voice, text, and files never leave your device. Everything stays local.
+*   **No Installation Required** — Just open the HTML file in your browser and start using it immediately.
+*   **Smart Features** — Automatic punctuation in transcriptions, real-time statistics, drag-and-drop support, and keyboard shortcuts for power users.
+*   **Fully Open Source** — All code is transparent, modifiable, and free to use under the MIT license.
+
+### 🔒 Privacy First
+
+*   **Zero data collection** — No analytics, no tracking, no external requests.
+*   **Local processing** — All computations happen directly in your browser.
+*   **No registration** — Use everything without creating an account or signing in.
 
 ---
 
 ## Русский
 
-Добро пожаловать в мой репозиторий! Здесь собрана коллекция полезных утилит и программ на каждый день, которые помогают автоматизировать рутинные задачи. Весь исходный код открыт, прозрачен и бесплатен для использования.
+Добро пожаловать в мой репозиторий! Здесь собраны мощные утилиты с открытым исходным кодом, которые делают повседневные задачи быстрее и проще. Все инструменты созданы с приоритетом на **безопасность**, **скорость** и **удобство**.
 
-### 🚀 Что входит в коллекцию
+### 🚀 Что внутри
 
-*   **Название программы 1** — Краткое описание (например, Конвертер аудио в текст).
-*   **Название программы 2** — Краткое описание (например, Сжатие и обрезка изображений).
-*   **Название программы 3** — Краткое описание (например, Генератор надежных паролей).
+*   **Конвертер голоса в текст** — Говорите естественно, а текст появляется на экране в реальном времени. Инструмент автоматически расставляет знаки препинания, поддерживает множество языков и подсчитывает количество слов и время чтения. Идеально для заметок, диктовки или расшифровки встреч.
 
-### ⚙️ Инструкция по запуску
+*   **Base64 Кодировщик/Декодер** — Мгновенно кодируйте текст или файлы в формат Base64 или декодируйте обратно в читаемый вид. Поддерживает различные кодировки (UTF-8, ASCII, Windows-1251 и другие). Отличный помощник для разработчиков, передачи данных или работы с API.
 
-1.  **Клонируй репозиторий:**
-    ```bash
-    git clone https://github.com
-    ```
-2.  **Перейди в папку проекта:**
-    ```bash
-    cd your-repository-name
-    ```
-3.  **Установи зависимости** (если они есть):
-    ```bash
-    pip install -r requirements.txt  # Для Python
-    # ИЛИ
-    npm install                     # Для Node.js
-    ```
-4.  **Запусти программу:**
-    Следуй инструкциям в папке конкретной утилиты.
+*   **Конвертер OGG в MP3** — Преобразуйте аудиофайлы OGG в MP3 за пару кликов. Инструмент обрабатывает файлы локально, поддерживает пакетное преобразование и позволяет настроить битрейт для оптимального качества. Нормализация звука гарантирует стабильный уровень громкости.
 
-### 🔒 Приватность и лицензия
+### ✨ Почему эти инструменты крутые
 
-*   Все инструменты работают локально на твоем устройстве.
-*   Данные и файлы не отправляются на сторонние серверы.
-*   Проект распространяется по лицензии **MIT**. Ты можешь свободно изменять и использовать этот код.
+*   **Мгновенная работа** — Вся обработка происходит в вашем браузере. Никаких загрузок на сервер и ожидания в очередях.
+*   **Полная приватность** — Ваш голос, текст и файлы никогда не покидают ваше устройство. Всё остаётся локально.
+*   **Не требует установки** — Просто откройте HTML-файл в браузере и начинайте пользоваться сразу.
+*   **Умные функции** — Автоматическая пунктуация в расшифровках, статистика в реальном времени, поддержка перетаскивания файлов и горячие клавиши для продвинутых пользователей.
+*   **Полностью открытый код** — Весь код прозрачен, его можно изменять и использовать бесплатно по лицензии MIT.
+
+### 🔒 Безопасность прежде всего
+
+*   **Нет сбора данных** — Никакой аналитики, трекинга или внешних запросов.
+*   **Локальная обработка** — Все вычисления происходят прямо в вашем браузере.
+*   **Без регистрации** — Используйте всё без создания аккаунта или входа в систему.
