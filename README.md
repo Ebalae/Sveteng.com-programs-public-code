@@ -4,7 +4,7 @@
 
 ---
 
-Site: [Sveteng](https://sveteng.com)
+Visit our official website: [Sveteng.com](https://sveteng.com)
 
 ## English
 
@@ -35,6 +35,8 @@ Welcome to my repository! This is a collection of powerful, open-source utilitie
 ---
 
 ## Русский
+
+Посетите наш официальный сайт: [Sveteng.com](https://sveteng.com)
 
 Добро пожаловать в мой репозиторий! Здесь собраны мощные утилиты с открытым исходным кодом, которые делают повседневные задачи быстрее и проще. Все инструменты созданы с приоритетом на **безопасность**, **скорость** и **удобство**.
 
