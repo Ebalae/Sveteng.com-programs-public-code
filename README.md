@@ -4,6 +4,8 @@
 
 ---
 
+[![Website](https://shields.io)](https://sveteng.com)
+
 ## English
 
 Welcome to my repository! This is a collection of powerful, open-source utilities that make everyday tasks faster and easier. All tools are designed with **privacy**, **speed**, and **simplicity** in mind.
