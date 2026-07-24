@@ -4,7 +4,7 @@
 
 ---
 
-[![Website](https://shields.io)](https://sveteng.com)
+Site: [Sveteng](https://sveteng.com)
 
 ## English
 
